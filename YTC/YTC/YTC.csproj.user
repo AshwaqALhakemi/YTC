@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="PL\AddFloors_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\Customers_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\Floors_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\LOGIN_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\MAIN_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\Orders_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\RoomsManagment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\RoomsType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\USERS_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
